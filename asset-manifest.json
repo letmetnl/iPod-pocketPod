@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/iPod-pocketPod/static/css/main.a2775053.chunk.css",
+    "main.js": "/iPod-pocketPod/static/js/main.248fda12.chunk.js",
+    "main.js.map": "/iPod-pocketPod/static/js/main.248fda12.chunk.js.map",
+    "runtime-main.js": "/iPod-pocketPod/static/js/runtime-main.f88fa259.js",
+    "runtime-main.js.map": "/iPod-pocketPod/static/js/runtime-main.f88fa259.js.map",
+    "static/js/2.fd965c30.chunk.js": "/iPod-pocketPod/static/js/2.fd965c30.chunk.js",
+    "static/js/2.fd965c30.chunk.js.map": "/iPod-pocketPod/static/js/2.fd965c30.chunk.js.map",
+    "index.html": "/iPod-pocketPod/index.html",
+    "precache-manifest.11fd13f7b367957d35f524f4f5ae6c32.js": "/iPod-pocketPod/precache-manifest.11fd13f7b367957d35f524f4f5ae6c32.js",
+    "service-worker.js": "/iPod-pocketPod/service-worker.js",
+    "static/css/main.a2775053.chunk.css.map": "/iPod-pocketPod/static/css/main.a2775053.chunk.css.map",
+    "static/js/2.fd965c30.chunk.js.LICENSE.txt": "/iPod-pocketPod/static/js/2.fd965c30.chunk.js.LICENSE.txt",
+    "static/media/Scam-1992BGM.mp3": "/iPod-pocketPod/static/media/Scam-1992BGM.21ccb044.mp3",
+    "static/media/Tum-Tak.mp3": "/iPod-pocketPod/static/media/Tum-Tak.58a54a9f.mp3",
+    "static/media/babyYoda.jpg": "/iPod-pocketPod/static/media/babyYoda.dbfc1115.jpg",
+    "static/media/earth.jpg": "/iPod-pocketPod/static/media/earth.ab7c69c2.jpg",
+    "static/media/earth2020.jpg": "/iPod-pocketPod/static/media/earth2020.d1ce8e39.jpg",
+    "static/media/game.png": "/iPod-pocketPod/static/media/game.6acd99a0.png",
+    "static/media/joker.png": "/iPod-pocketPod/static/media/joker.b7bdadb2.png",
+    "static/media/pirates-jack-bgm.mp3": "/iPod-pocketPod/static/media/pirates-jack-bgm.62a0c358.mp3",
+    "static/media/song1Img.jpg": "/iPod-pocketPod/static/media/song1Img.71585cda.jpg",
+    "static/media/song2Img.jpg": "/iPod-pocketPod/static/media/song2Img.472698ac.jpg",
+    "static/media/song3Img.jpg": "/iPod-pocketPod/static/media/song3Img.b03f6054.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f88fa259.js",
+    "static/js/2.fd965c30.chunk.js",
+    "static/css/main.a2775053.chunk.css",
+    "static/js/main.248fda12.chunk.js"
+  ]
+}
